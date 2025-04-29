@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @devilapurv
-- 👀 I’m interested in C++,C,Python
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on Django projects
+- 👀 I’m interested in Data Analytics
+- 🌱 I’m currently learning Power BI
+- 💞️ I’m looking to collaborate on Data Analytics projects
 - 📫 How to reach me ...
 
 <!---
