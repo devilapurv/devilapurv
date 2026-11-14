@@ -99,7 +99,25 @@
 
 🔗 [View Project](https://github.com/devilapurv/SentimentScope)
 
-### 4. Uber Data Engineering
+### 4. 💧 WaterPotability AI — Water Quality Prediction System
+
+**Technologies:** Python | Pandas | NumPy | Scikit-learn | Random Forest | Streamlit | Plotly | Joblib
+
+- Developed an end-to-end **Machine Learning application** for predicting water potability labels based on physicochemical measurements.
+- Analyzed **3,276 water-quality samples** containing nine features, including pH, hardness, dissolved solids, sulfate, chloramines, and turbidity.
+- Performed data cleaning, missing-value imputation, exploratory data analysis, and correlation analysis.
+- Trained and compared **Logistic Regression and Random Forest classifiers**, selecting Random Forest for the final application.
+- Achieved **67.07% test accuracy**, with **91% recall for non-potable samples** and **30% recall for potable samples**.
+- Developed a cinematic, dark-themed **Streamlit application** featuring single-sample predictions, model probabilities, and interactive analytics.
+- Implemented **bulk CSV prediction** for unseen samples, including automated preprocessing, prediction summaries, interactive Plotly charts, and downloadable results.
+- Visualized feature importance and model performance to support interpretation of predictions.
+- Presented the application as an **experimental classification tool**, not a substitute for laboratory water safety testing.
+
+📂 **Dataset:** [Water Quality Dataset — Kaggle](https://www.kaggle.com/datasets/adityakadiwal/water-potability)
+
+🔗 [View Project](https://github.com/devilapurv/WaterPotability-AI)
+
+### 5. Uber Data Engineering
 
 **Technologies:** Python | Data Engineering | ETL | Data Analysis
 
@@ -108,7 +126,7 @@
 
 🔗 [View Project](https://github.com/devilapurv/Uber-Data-Engineering)
 
-### 5. 🎨 Live Sketch Using Python
+### 6. 🎨 Live Sketch Using Python
 
 **Technologies:** Python | Computer Vision | Image Processing
 
@@ -118,7 +136,7 @@
 
 🔗 [View Project](https://github.com/devilapurv/Live-Sketch-Using-Python)
 
-### 6. Python Data Analytics
+### 7. Python Data Analytics
 
 **Technologies:** Python | Pandas | NumPy | Data Visualization
 
@@ -128,7 +146,7 @@
 
 🔗 [View Project](https://github.com/devilapurv/Python-Data-Analytics)
 
-### 7. SQL Data Analytics
+### 8. SQL Data Analytics
 
 **Technologies:** MySQL | SQL | Data Exploration
 
@@ -136,7 +154,6 @@
 - Worked with queries to extract and analyze meaningful information from datasets.
 
 🔗 [View Project](https://github.com/devilapurv/SQL-Data-Analytics)
-
 
 ---
 
