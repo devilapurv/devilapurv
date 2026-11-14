@@ -137,15 +137,6 @@
 
 🔗 [View Project](https://github.com/devilapurv/SQL-Data-Analytics)
 
-### 8. TravelSense – Travel Recommendation System
-
-**Technologies:** Python | NLP | Scikit-learn | Streamlit | Plotly
-
-- Working on a travel recommendation application.
-- Exploring review-based recommendations and destination insights.
-- Integrating data processing, text analytics, and interactive visualizations.
-
-🔗 [Explore Project](https://github.com/santhiya1211/TravelSense)
 
 ---
 
