@@ -115,7 +115,7 @@
 
 📂 **Dataset:** [Water Quality Dataset — Kaggle](https://www.kaggle.com/datasets/adityakadiwal/water-potability)
 
-🔗 [View Project](https://github.com/devilapurv/WaterPotability-AI)
+🔗 [View Project](https://github.com/devilapurv/Water-Potability-AI)
 
 ### 5. Uber Data Engineering
 
