@@ -117,7 +117,22 @@
 
 🔗 [View Project](https://github.com/devilapurv/Water-Potability-AI)
 
-### 5. Uber Data Engineering
+### 5. 🎓 Admission Prediction & Customer Segmentation — Machine Learning
+
+**Technologies:** Python | Pandas | NumPy | Scikit-learn | Logistic Regression | Decision Tree | Random Forest | SMOTE | PCA | K-Means | Matplotlib | Seaborn
+
+- Developed two Machine Learning solutions combining **supervised classification and unsupervised clustering**.
+- Built a **US Master's Admission Competitiveness Prediction** model using Logistic Regression, Decision Tree, and Random Forest.
+- Performed exploratory data analysis, data preprocessing, feature engineering, and model evaluation.
+- Achieved **78.97% accuracy** using Logistic Regression and **76.73% accuracy with SMOTE**, improving minority-class representation during training.
+- Implemented **Zomato Customer Segmentation** using Principal Component Analysis (PCA) and K-Means clustering.
+- Reduced **16 features to 13 principal components**, retaining **96.97% of the original variance**.
+- Identified **4 customer segments** and evaluated clustering quality using the Silhouette Score.
+- Visualized model performance, customer clusters, and important patterns to support data-driven insights.
+
+🔗 [View Project](https://github.com/devilapurv/Admission-Prediction-and-Customer-Segmentation)
+
+### 6. Uber Data Engineering
 
 **Technologies:** Python | Data Engineering | ETL | Data Analysis
 
@@ -126,7 +141,7 @@
 
 🔗 [View Project](https://github.com/devilapurv/Uber-Data-Engineering)
 
-### 6. 🎨 Live Sketch Using Python
+### 7. 🎨 Live Sketch Using Python
 
 **Technologies:** Python | Computer Vision | Image Processing
 
@@ -136,7 +151,7 @@
 
 🔗 [View Project](https://github.com/devilapurv/Live-Sketch-Using-Python)
 
-### 7. Python Data Analytics
+### 8. Python Data Analytics
 
 **Technologies:** Python | Pandas | NumPy | Data Visualization
 
@@ -146,7 +161,7 @@
 
 🔗 [View Project](https://github.com/devilapurv/Python-Data-Analytics)
 
-### 8. SQL Data Analytics
+### 9. SQL Data Analytics
 
 **Technologies:** MySQL | SQL | Data Exploration
 
