@@ -29,23 +29,23 @@
 **Programming & Database**
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,mysql,postgresql" />
+  <img src="https://skillicons.dev/icons?i=python,mysql,postgresql" />
 </p>
 
 **Data Analytics & Visualization**
 
 <p>
-<img src="https://img.shields.io/badge/Power%20BI-F1C40F?style=for-the-badge&logo=powerbi&logoColor=black" />
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-F1C40F?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
 </p>
 
 **Machine Learning & Development**
 
 <p>
-<img src="https://skillicons.dev/icons?i=sklearn,tensorflow,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=sklearn,tensorflow,git,github,vscode" />
 </p>
 
 **Libraries & Frameworks**
@@ -132,7 +132,23 @@
 
 🔗 [View Project](https://github.com/devilapurv/Admission-Prediction-and-Customer-Segmentation)
 
-### 6. Uber Data Engineering
+### 6. 📊 Insurance Claims Analytics & Fraud Risk Assessment — Power BI
+
+**Technologies:** Power BI | DAX | Power Query | Data Cleaning | Data Visualization | Business Intelligence
+
+- Developed a professional, interactive **3-page Power BI dashboard** to analyze insurance claims, financial performance, and fraud risk.
+- Analyzed **1,000 insurance claims** with a total claim amount of **52.76M** and an average claim amount of **52.76K**.
+- Built dynamic KPI cards to track total claims, claim amounts, average claim value, and fraud percentage.
+- Analyzed monthly claim trends, identifying an **8.5% decrease in claim volume** from January to February.
+- Compared policy coverage categories to evaluate claim amounts and identify high-cost insurance segments.
+- Identified an **overall fraud rate of 24.7%**, with **64.9% fraud concentration** in Major Damage incidents under 250/500 coverage.
+- Explored customer demographics and vehicle characteristics, including age, gender, education, and automobile manufacturers.
+- Implemented **4 interactive slicers** for Month, Gender, Policy Type, and Fraud Status, enabling cross-filtering across dashboard pages.
+- Designed a modern dark-themed dashboard with analytical visualizations and actionable business insights.
+
+🔗 [View Project](https://github.com/devilapurv/Insurance-Claims-Analytics-PowerBI)
+
+### 7. Uber Data Engineering
 
 **Technologies:** Python | Data Engineering | ETL | Data Analysis
 
@@ -141,7 +157,7 @@
 
 🔗 [View Project](https://github.com/devilapurv/Uber-Data-Engineering)
 
-### 7. 🎨 Live Sketch Using Python
+### 8. 🎨 Live Sketch Using Python
 
 **Technologies:** Python | Computer Vision | Image Processing
 
@@ -151,7 +167,7 @@
 
 🔗 [View Project](https://github.com/devilapurv/Live-Sketch-Using-Python)
 
-### 8. Python Data Analytics
+### 9. Python Data Analytics
 
 **Technologies:** Python | Pandas | NumPy | Data Visualization
 
@@ -161,7 +177,7 @@
 
 🔗 [View Project](https://github.com/devilapurv/Python-Data-Analytics)
 
-### 9. SQL Data Analytics
+### 10. SQL Data Analytics
 
 **Technologies:** MySQL | SQL | Data Exploration
 
