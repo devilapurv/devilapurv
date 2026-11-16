@@ -58,113 +58,87 @@
 
 ### 1. 🏙️ CivicPulse India — Civic Complaint Intelligence
 
-**Technologies:** Python | Pandas | Scikit-learn | Machine Learning | Streamlit
+**Tech Stack:** Python | Scikit-learn | Pandas | Streamlit
 
-- Analyzed **326,156 civic complaints** across **198 Bengaluru wards** using historical 2023–2024 data.
-- Implemented K-Means clustering, Isolation Forest anomaly detection, and Random Forest forecasting.
-- Developed historical ward priority scoring and issue-specific recommendations.
-- Built an interactive Streamlit dashboard for complaint trends, alerts, and ward comparisons.
-- Achieved an **R² score of 0.845** on the historical forecasting test set.
+- Analyzed **326K+ civic complaints** across **198 Bengaluru wards** to identify complaint trends and regional issues.
+- Applied **K-Means, Isolation Forest, and Random Forest** for segmentation, anomaly detection, and forecasting.
+- Developed ward-level priority scores and recommendations through an interactive Streamlit dashboard.
+- Achieved **R² = 0.845** in historical forecasting evaluation.
 
 🔗 [View Project](https://github.com/devilapurv/CivicPulse-India)
 
 ### 2. 🛡️ FraudShield AI — Credit Card Fraud Detection
 
-**Technologies:** Python | XGBoost | Scikit-learn | SHAP | Pandas | Streamlit
+**Tech Stack:** Python | XGBoost | SHAP | Scikit-learn | Streamlit
 
-- Developed an end-to-end Machine Learning application to identify potentially fraudulent credit card transactions.
-- Trained an **XGBoost classifier** using **284,807 transactions**, including **492 fraudulent transactions**, from the ULB Credit Card Fraud Detection dataset.
-- Addressed severe class imbalance using class-weighted learning and evaluated the model using precision, recall, F1-score, and PR-AUC.
-- Achieved a **PR-AUC of 0.8327**, with **86% fraud recall** at an experimentally selected decision threshold.
-- Integrated **SHAP Explainable AI** to visualize feature contributions to individual fraud predictions.
-- Built an interactive, Netflix-inspired **Streamlit dashboard** featuring fraud alerts, transaction risk analysis, visualizations, and downloadable CSV reports.
-
-📂 **Dataset:** [Credit Card Fraud Detection — Kaggle](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
+- Built an **XGBoost-based fraud detection system** using **284K+ credit card transactions**.
+- Addressed class imbalance and achieved **PR-AUC = 0.8327** with **86% fraud recall** at a selected threshold.
+- Integrated **SHAP Explainable AI** to interpret individual fraud predictions.
+- Developed a Streamlit dashboard for risk analysis, fraud alerts, and downloadable reports.
 
 🔗 [View Project](https://github.com/devilapurv/FraudShield-AI)
 
 ### 3. 💬 SentimentScope — Customer Review Intelligence
 
-**Technologies:** Python | NLP | TF-IDF | Logistic Regression | Scikit-learn | Pandas | Streamlit | Plotly
+**Tech Stack:** Python | NLP | TF-IDF | Logistic Regression | Streamlit | Plotly
 
-- Developed an end-to-end **NLP-powered sentiment analysis application** to automatically classify customer reviews as positive or negative.
-- Processed **645,221 Amazon product reviews** and selected **200,000 balanced reviews** for model development.
-- Implemented **TF-IDF Vectorization** with unigram and bigram features to transform customer feedback into numerical representations.
-- Trained and optimized a **Logistic Regression classifier**, achieving **93.52% accuracy** on a balanced test set of **40,000 reviews**.
-- Improved the reported accuracy from **88.68% to 93.52%** through feature engineering and model optimization, using different evaluation splits.
-- Developed a modern, dark-themed **Streamlit dashboard** for real-time sentiment predictions, positive/negative probability scores, and bulk CSV analysis.
-- Integrated **Plotly visualizations** for sentiment distribution and frequently used word analysis, along with review filtering and downloadable prediction reports.
-
-📂 **Dataset:** [Amazon Reviews 2023](https://amazon-reviews-2023.github.io/)
+- Developed an **NLP sentiment classification system** using **200K balanced Amazon reviews**.
+- Applied **TF-IDF and Logistic Regression**, achieving **93.52% test accuracy**.
+- Built a Streamlit application for individual predictions, confidence scores, and bulk review analysis.
+- Integrated interactive sentiment visualizations and downloadable prediction reports.
 
 🔗 [View Project](https://github.com/devilapurv/SentimentScope)
 
-### 4. 💧 WaterPotability AI — Water Quality Prediction System
+### 4. 💧 WaterPotability AI — Water Quality Prediction
 
-**Technologies:** Python | Pandas | NumPy | Scikit-learn | Random Forest | Streamlit | Plotly | Joblib
+**Tech Stack:** Python | Scikit-learn | Random Forest | Streamlit | Plotly
 
-- Developed an end-to-end **Machine Learning application** for predicting water potability labels based on physicochemical measurements.
-- Analyzed **3,276 water-quality samples** containing nine features, including pH, hardness, dissolved solids, sulfate, chloramines, and turbidity.
-- Performed data cleaning, missing-value imputation, exploratory data analysis, and correlation analysis.
-- Trained and compared **Logistic Regression and Random Forest classifiers**, selecting Random Forest for the final application.
-- Achieved **67.07% test accuracy**, with **91% recall for non-potable samples** and **30% recall for potable samples**.
-- Developed a cinematic, dark-themed **Streamlit application** featuring single-sample predictions, model probabilities, and interactive analytics.
-- Implemented **bulk CSV prediction** for unseen samples, including automated preprocessing, prediction summaries, interactive Plotly charts, and downloadable results.
-- Visualized feature importance and model performance to support interpretation of predictions.
-- Presented the application as an **experimental classification tool**, not a substitute for laboratory water safety testing.
-
-📂 **Dataset:** [Water Quality Dataset — Kaggle](https://www.kaggle.com/datasets/adityakadiwal/water-potability)
+- Analyzed **3,276 water samples** using physicochemical features to predict water potability labels.
+- Performed data preprocessing and compared classification models, selecting **Random Forest**.
+- Achieved **67.07% test accuracy** with **91% recall for non-potable samples**.
+- Built an interactive Streamlit application supporting individual and bulk CSV predictions.
 
 🔗 [View Project](https://github.com/devilapurv/Water-Potability-AI)
 
-### 5. 🎓 Admission Prediction & Customer Segmentation — Machine Learning
+### 5. 🎓 Admission Prediction & Customer Segmentation
 
-**Technologies:** Python | Pandas | NumPy | Scikit-learn | Logistic Regression | Decision Tree | Random Forest | SMOTE | PCA | K-Means | Matplotlib | Seaborn
+**Tech Stack:** Python | Scikit-learn | Logistic Regression | PCA | K-Means | SMOTE
 
-- Developed two Machine Learning solutions combining **supervised classification and unsupervised clustering**.
-- Built a **US Master's Admission Competitiveness Prediction** model using Logistic Regression, Decision Tree, and Random Forest.
-- Performed exploratory data analysis, data preprocessing, feature engineering, and model evaluation.
-- Achieved **78.97% accuracy** using Logistic Regression and **76.73% accuracy with SMOTE**, improving minority-class representation during training.
-- Implemented **Zomato Customer Segmentation** using Principal Component Analysis (PCA) and K-Means clustering.
-- Reduced **16 features to 13 principal components**, retaining **96.97% of the original variance**.
-- Identified **4 customer segments** and evaluated clustering quality using the Silhouette Score.
-- Visualized model performance, customer clusters, and important patterns to support data-driven insights.
+- Developed a **US Master's admission prediction model**, achieving **78.97% accuracy** using Logistic Regression.
+- Applied **SMOTE** to address class imbalance and compared multiple classification algorithms.
+- Performed **Zomato customer segmentation** using PCA and K-Means clustering.
+- Identified **4 customer segments**, retaining **96.97% variance** through dimensionality reduction.
 
 🔗 [View Project](https://github.com/devilapurv/Admission-Prediction-and-Customer-Segmentation)
 
-### 6. 📊 Insurance Claims Analytics & Fraud Risk Assessment — Power BI
+### 6. 📊 Insurance Claims Analytics & Fraud Risk Assessment
 
-**Technologies:** Power BI | DAX | Power Query | Data Cleaning | Data Visualization | Business Intelligence
+**Tech Stack:** Power BI | DAX | Power Query | Data Visualization
 
-- Developed a professional, interactive **3-page Power BI dashboard** to analyze insurance claims, financial performance, and fraud risk.
-- Analyzed **1,000 insurance claims** with a total claim amount of **52.76M** and an average claim amount of **52.76K**.
-- Built dynamic KPI cards to track total claims, claim amounts, average claim value, and fraud percentage.
-- Analyzed monthly claim trends, identifying an **8.5% decrease in claim volume** from January to February.
-- Compared policy coverage categories to evaluate claim amounts and identify high-cost insurance segments.
-- Identified an **overall fraud rate of 24.7%**, with a **64.9% fraud rate** for Major Damage incidents under 250/500 coverage.
-- Explored customer demographics and vehicle characteristics, including age, gender, education, and automobile manufacturers.
-- Implemented **4 interactive slicers** for Month, Gender, Policy Type, and Fraud Status, enabling cross-filtering across dashboard pages.
-- Designed a modern dark-themed dashboard with analytical visualizations and actionable business insights.
+- Developed an interactive **3-page Power BI dashboard** analyzing **1,000 insurance claims** worth **52.76M**.
+- Visualized claim trends, policy coverage, customer demographics, and vehicle-related claim patterns.
+- Identified an **overall fraud rate of 24.7%** and high-risk segments with fraud rates reaching **64.9%**.
+- Implemented dynamic KPI cards, interactive slicers, and fraud risk visualizations.
 
 🔗 [View Project](https://github.com/devilapurv/Insurance-Claims-Analytics-PowerBI)
 
 ### 7. 🎨 Live Sketch Using Python
 
-**Technologies:** Python | Computer Vision | Image Processing
+**Tech Stack:** Python | Computer Vision | Image Processing
 
-- Developed a Python-based project for creating sketch-style visual effects.
-- Explored image processing techniques for visual transformation.
-- Demonstrated practical applications of Python in computer vision.
+- Developed a Python application for generating **sketch-style visual effects**.
+- Applied image processing techniques to transform visual inputs.
+- Demonstrated practical computer vision and image transformation concepts.
 
 🔗 [View Project](https://github.com/devilapurv/Live-Sketch-Using-Python)
 
-### 8. Python Data Analytics
+### 8. 📈 Python Data Analytics
 
-**Technologies:** Python | Pandas | NumPy | Data Visualization
+**Tech Stack:** Python | Pandas | NumPy | Data Visualization
 
-- Performed exploratory data analysis on multiple datasets.
-- Practiced data cleaning, manipulation, and visualization.
-- Extracted insights through analytical techniques.
+- Performed **exploratory data analysis** across multiple datasets.
+- Applied data cleaning, manipulation, and statistical analysis techniques.
+- Created visualizations to identify patterns, trends, and meaningful insights.
 
 🔗 [View Project](https://github.com/devilapurv/Python-Data-Analytics)
 
@@ -193,7 +167,6 @@
 - Interactive Dashboard Development
 
 ---
-
 
 ## 🤝 Let's Connect
 
