@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:090E1A,45:172A53,100:00D9FF&text=APURV%20SINGH&fontColor=FFFFFF&fontSize=52&fontAlignY=38&desc=DATA%20%7C%20INTELLIGENCE%20%7C%20IMPACT&descAlignY=59&descSize=17&animation=fadeIn" width="100%" alt="Apurv Singh banner" />
 
-<a href="https://github.com/devilapurv"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2600&pause=950&color=55E6FF&center=true&vCenter=true&width=820&lines=Data+Analyst+%7C+Machine+Learning;Building+Intelligent+Data-Driven+Solutions;Python+%7C+SQL+%7C+Power+BI+%7C+AI;Turning+Complex+Data+into+Meaningful+Insights" alt="Animated professional introduction" /></a>
+<a href="https://github.com/devilapurv"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2600&pause=950&color=55E6FF&center=true&vCenter=true&width=820&lines=Data+Analyst+%7C+Machine+Learning+Enthusiast;Building+Intelligent+Data-Driven+Solutions;Python+%7C+SQL+%7C+Power+BI+%7C+AI;Turning+Complex+Data+into+Meaningful+Insights" alt="Animated professional introduction" /></a>
 
 <p align="center"><i>Transforming complex data into meaningful insights and building intelligent solutions to real-world problems.</i></p>
 
@@ -258,8 +258,6 @@ I enjoy taking a project from **problem definition → data validation → explo
 <a href="https://medium.com/@apurvsingh_43308"><img src="https://img.shields.io/badge/Medium-Follow-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
 
 *"Learning continuously. Building consistently. Growing through data."*
-
-<img src="https://komarev.com/ghpvc/?username=devilapurv&label=PROFILE%20VIEWS&color=00BBDD&style=flat-square" alt="Profile views" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=105&section=footer&color=0:00D9FF,50:172A53,100:090E1A" width="100%" alt="Footer decoration" />
 
