@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:090E1A,45:172A53,100:00D9FF&text=APURV%20SINGH&fontColor=FFFFFF&fontSize=52&fontAlignY=38&desc=DATA%20%7C%20INTELLIGENCE%20%7C%20IMPACT&descAlignY=59&descSize=17&animation=fadeIn" width="100%" alt="Apurv Singh banner" />
 
-<a href="https://github.com/devilapurv"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2600&pause=950&color=55E6FF&center=true&vCenter=true&width=820&lines=Data+Analyst+%7C+Machine+Learning;Building+Intelligent+Data-Driven+Solutions;Python+%7C+SQL+%7C+Power+BI+%7C+AI;Turning+Complex+Data+into+Meaningful+Insights" alt="Animated professional introduction" /></a>
+<a href="https://github.com/devilapurv"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2600&pause=950&color=55E6FF&center=true&vCenter=true&width=820&lines=Data+Analyst+%7C+Machine+Learning+Enthusiast;Building+Intelligent+Data-Driven+Solutions;Python+%7C+SQL+%7C+Power+BI+%7C+AI;Turning+Complex+Data+into+Meaningful+Insights" alt="Animated professional introduction" /></a>
 
 **Computer Science Graduate · Data Science & Analytics · Machine Learning · Business Intelligence**
 
@@ -162,19 +162,25 @@ I enjoy taking a project from **problem definition → data validation → explo
 
 ## 📚 Research & Publications
 
-### 🔬 Object Detection and Tracking System
+### 🔐 Personally Identifiable Information Detection Using Natural Language Processing
 
-- **Research area:** Computer Vision · Object Detection · Object Tracking.
-- Focuses on identifying and tracking objects in visual data, connecting computer vision concepts with practical applications.
-- **[📄 View Research Publication](https://matjournals.net/engineering/index.php/JoISSCCR/article/view/443)**
+**Published:** May 2024 | **Journal:** Journal of Information Security System and Cyber Criminology Research (MAT Journals)
 
-<details>
-<summary><b>📖 Additional research reference</b></summary>
-<br>
+- Investigated **Natural Language Processing** techniques for identifying personally identifiable information in text.
+- Explored applications of text analysis to **data privacy and sensitive-information detection**.
+- Connected NLP research with practical approaches to protecting personal information.
 
-- [Zenodo research record](https://zenodo.org/records/6629732) — separate research reference; see the record for its authorship and details.
+🔗 **[Read Research Paper](https://matjournals.net/engineering/index.php/JoISSCCR/article/view/443)**
 
-</details>
+### 👁️ Object Detection and Tracking System (ODTP)
+
+**Published:** 2022 | **Journal:** Research and Reviews: Advancement in Robotics, Volume 5, Issue 1 (HBRP Publications)
+
+- Explored **computer vision** approaches to detecting objects in visual inputs.
+- Studied **object tracking** for following detected objects across successive frames.
+- Demonstrated applications of image processing and visual analysis in automated monitoring.
+
+🔗 **[Read Research Paper](https://zenodo.org/records/6629732)** · **[DOI](https://doi.org/10.5281/zenodo.6629732)**
 
 ---
 
