@@ -251,7 +251,7 @@ I enjoy taking a project from **problem definition → data validation → explo
 
 <div align="center">
 
-**Interested in analytics, applied machine learning, or meaningful technical collaborations?**
+**Open to opportunities in Data Analytics, Machine Learning, and collaborative technology projects.**
 
 <a href="https://www.linkedin.com/in/apurv-singh-63560716b"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://github.com/devilapurv"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
