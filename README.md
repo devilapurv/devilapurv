@@ -6,11 +6,13 @@
 
 **Computer Science Graduate · Data Science & Analytics · Machine Learning · Business Intelligence**
 
-**[About](#-about-me) · [Tech Stack](#-technical-toolkit) · [Projects](#-featured-projects) · [Research](#-research--publications) · [Articles](#-technical-articles) · [GitHub Activity](#-github-activity) · [Connect](#-lets-connect)**
+**[About](#about-me) · [Tech Stack](#technical-toolkit) · [Projects](#featured-projects) · [Research](#research--publications) · [Articles](#technical-articles) · [GitHub Activity](#github-activity) · [Connect](#lets-connect)**
 
 </div>
 
 ---
+
+<a id="about-me"></a>
 
 ## 👨‍💻 About Me
 
@@ -31,6 +33,8 @@ I enjoy taking a project from **problem definition → data validation → explo
 </details>
 
 ---
+
+<a id="technical-toolkit"></a>
 
 ## 🛠️ Technical Toolkit
 
@@ -55,6 +59,8 @@ I enjoy taking a project from **problem definition → data validation → explo
 </div>
 
 ---
+
+<a id="featured-projects"></a>
 
 ## 🚀 Featured Projects
 
@@ -160,6 +166,8 @@ I enjoy taking a project from **problem definition → data validation → explo
 
 ---
 
+<a id="research--publications"></a>
+
 ## 📚 Research & Publications
 
 ### 🔐 Personally Identifiable Information Detection Using Natural Language Processing
@@ -183,6 +191,8 @@ I enjoy taking a project from **problem definition → data validation → explo
 🔗 **[Read Research Paper](https://zenodo.org/records/6629732)** · **[DOI](https://doi.org/10.5281/zenodo.6629732)**
 
 ---
+
+<a id="technical-articles"></a>
 
 ## ✍️ Technical Articles
 
@@ -216,6 +226,8 @@ I enjoy taking a project from **problem definition → data validation → explo
 
 ---
 
+<a id="github-activity"></a>
+
 ## 📊 GitHub Activity
 
 <div align="center">
@@ -232,6 +244,8 @@ I enjoy taking a project from **problem definition → data validation → explo
 > GitHub charts and animations are served by third-party services; if a service is temporarily unavailable, its image may not render.
 
 ---
+
+<a id="lets-connect"></a>
 
 ## 🤝 Let's Connect
 
