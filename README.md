@@ -6,12 +6,6 @@
 
 **Computer Science Graduate · Data Science & Analytics · Machine Learning · Business Intelligence**
 
-<a href="https://www.linkedin.com/in/apurv-singh-63560716b"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://medium.com/@apurvsingh_43308"><img src="https://img.shields.io/badge/Medium-Read%20Articles-151515?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
-<a href="https://github.com/devilapurv?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Explore%20Projects-30363D?style=for-the-badge&logo=github&logoColor=white" alt="GitHub repositories" /></a>
-
-<img src="https://komarev.com/ghpvc/?username=devilapurv&label=PROFILE%20VIEWS&color=00BBDD&style=flat-square" alt="Profile views" />
-
 **[About](#-about-me) · [Tech Stack](#-technical-toolkit) · [Projects](#-featured-projects) · [Research](#-research--publications) · [Articles](#-technical-articles) · [GitHub Activity](#-github-activity) · [Connect](#-lets-connect)**
 
 </div>
@@ -244,6 +238,8 @@ I enjoy taking a project from **problem definition → data validation → explo
 <a href="https://medium.com/@apurvsingh_43308"><img src="https://img.shields.io/badge/Medium-Follow-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
 
 *"Learning continuously. Building consistently. Growing through data."*
+
+<img src="https://komarev.com/ghpvc/?username=devilapurv&label=PROFILE%20VIEWS&color=00BBDD&style=flat-square" alt="Profile views" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=105&section=footer&color=0:00D9FF,50:172A53,100:090E1A" width="100%" alt="Footer decoration" />
 
