@@ -18,10 +18,15 @@
 
 I build data-driven solutions that turn complex datasets into actionable insights, predictive models, and interactive applications. My work spans business intelligence, fraud detection, customer review analysis, and civic infrastructure intelligence.
 
-- 📊 **Data Analytics & Business Intelligence:** I use Python, SQL, Excel, and Power BI to clean and explore data, identify trends, track KPIs, and communicate findings through interactive dashboards.
-- 🤖 **Machine Learning & Applied AI:** I develop classification, clustering, and forecasting models for fraud detection, sentiment analysis, customer segmentation, and civic service prioritization. I use model evaluation and explainability techniques to understand performance beyond accuracy.
-- 🛠️ **End-to-End Development:** I combine data preprocessing, feature engineering, predictive modeling, and Streamlit applications to make analytical results accessible and useful.
-- 🔍 **Research & Technical Interests:** I am interested in NLP, computer vision, deep learning, generative AI, retrieval-augmented generation (RAG), and data engineering. My published research explores personal information protection and object detection and tracking.
+- 📊 **Data Analytics & BI:** Transforming complex datasets into actionable insights using Python, SQL, Excel, and Power BI.
+
+- 🤖 **Machine Learning & AI:** Building predictive and explainable models for fraud detection, sentiment analysis, risk assessment, and forecasting.
+
+- 🌐 **Applied Problem-Solving:** Developing data-driven solutions for real-world business, civic, and operational challenges.
+
+- 🔬 **Research & Innovation:** Exploring NLP, Computer Vision, Deep Learning, Generative AI, and RAG, backed by published research.
+
+- 🎯 **Professional Value:** Combining analytical thinking, technical expertise, and business understanding to deliver meaningful, data-driven solutions.
 
 **What I bring:** Structured problem-solving, attention to data quality, an analytical mindset, and the ability to translate technical findings into practical recommendations.
 
