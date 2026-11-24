@@ -26,7 +26,21 @@ I'm passionate about solving real-world problems through **Data Analytics, Machi
 - 🎯 **My Approach:** Combining analytical thinking, technical problem-solving, and business understanding to build practical, reliable solutions.
 
 🎓 Currently pursuing a **Post Graduate Program in Data Science & Analytics at Imarticus Learning, Pune.**
+<details>
+<summary><b>🔍 Explore My Approach</b></summary>
 
+<br>
+
+| Stage | How I Approach It |
+| :--- | :--- |
+| 🎯 Problem Understanding | Define the objective, business requirements, and success metrics. |
+| 🧹 Data Preparation | Clean, validate, and transform raw data to ensure reliability. |
+| 📊 Exploratory Analysis | Uncover patterns, relationships, anomalies, and meaningful trends. |
+| ⚙️ Model Development | Select suitable algorithms based on the problem and data characteristics. |
+| 📈 Evaluation & Explainability | Assess model performance, interpret predictions, and identify limitations. |
+| 🚀 Solution Delivery | Translate findings into interactive dashboards, applications, and actionable recommendations. |
+
+</details>
 ---
 
 <a name="technical-toolkit"></a>
