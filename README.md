@@ -16,15 +16,12 @@
 
 ## 👨‍💻 About Me
 
-I build data-driven solutions that turn complex datasets into actionable insights, predictive models, and interactive applications. My work spans business intelligence, fraud detection, customer review analysis, and civic infrastructure intelligence.
-
-- 📊 **Data Analytics & BI:** Transforming complex datasets into actionable insights using Python, SQL, Excel, and Power BI.
-- 🤖 **Machine Learning & AI:** Building predictive and explainable models for fraud detection, sentiment analysis, risk assessment, and forecasting.
-- 🌐 **Applied Problem-Solving:** Developing data-driven solutions for real-world business, civic, and operational challenges.
-- 🔬 **Research & Innovation:** Exploring NLP, Computer Vision, Deep Learning, Generative AI, and RAG, backed by published research.
-- 🎯 **Professional Value:** Combining analytical thinking, technical expertise, and business understanding to deliver meaningful, data-driven solutions.
-
-**What I bring:** Structured problem-solving, attention to data quality, an analytical mindset, and the ability to translate technical findings into practical recommendations.
+- 📊 I turn raw data into actionable insights using Python, SQL, Excel, and Power BI.
+- 🤖 I build predictive and explainable ML models for fraud detection, risk assessment, forecasting, and sentiment analysis.
+- 🌍 I enjoy solving real-world business and civic challenges through data-driven solutions.
+- 🔬 Published researcher with interests in NLP, Computer Vision, Deep Learning, and Generative AI.
+- 🎓 Currently pursuing Data Science & Analytics at Imarticus Learning, Pune.
+- 🎯 I bring analytical thinking, technical skills, and a business-oriented approach to problem-solving.
 
 <details>
 <summary><b>⚡ Explore my approach to solving problems</b></summary>
