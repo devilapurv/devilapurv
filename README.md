@@ -23,6 +23,7 @@
 - 🛠️ I turn analytical findings into **interactive dashboards and Streamlit applications**, making results easier to explore and use.
 - 🔬 My published research covers **NLP and computer vision**; I am particularly interested in applied AI, Deep Learning, Generative AI and RAG.
 - 🎯 I bring structured problem-solving, attention to data quality and a business-oriented approach to technical challenges.
+- 🎓 Currently pursuing a Post Graduate Program in Data Science & Analytics at **Imarticus Learning, Pune**.
 
 ---
 
