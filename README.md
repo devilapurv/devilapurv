@@ -16,19 +16,26 @@
 
 ## 👨‍💻 About Me
 
-I'm **Apurv Singh**, a Computer Science graduate pursuing a **Post Graduate Program in Data Science & Analytics at Imarticus Learning, Pune**. I build practical analytics and machine learning solutions that transform raw information into interpretable insights and useful applications.
+I build data-driven solutions that turn complex datasets into actionable insights, predictive models, and interactive applications. My work spans business intelligence, fraud detection, customer review analysis, and civic infrastructure intelligence.
 
-- 📊 **Analytics & BI:** Data cleaning, exploratory analysis, SQL, dashboards, and storytelling.
-- 🤖 **Machine Learning:** Classification, clustering, NLP, model evaluation, and explainability.
-- 🛠️ **Building:** End-to-end projects combining data pipelines, predictive models, and interactive applications.
-- 🌱 **Exploring:** Deep Learning, Generative AI, RAG, and Data Engineering.
-- 🎯 **Focus:** Solving real-world problems with evidence-based, reproducible work.
+- 📊 **Data Analytics & Business Intelligence:** I use Python, SQL, Excel, and Power BI to clean and explore data, identify trends, track KPIs, and communicate findings through interactive dashboards.
+- 🤖 **Machine Learning & Applied AI:** I develop classification, clustering, and forecasting models for fraud detection, sentiment analysis, customer segmentation, and civic service prioritization. I use model evaluation and explainability techniques to understand performance beyond accuracy.
+- 🛠️ **End-to-End Development:** I combine data preprocessing, feature engineering, predictive modeling, and Streamlit applications to make analytical results accessible and useful.
+- 🔍 **Research & Technical Interests:** I am interested in NLP, computer vision, deep learning, generative AI, retrieval-augmented generation (RAG), and data engineering. My published research explores personal information protection and object detection and tracking.
+
+**What I bring:** Structured problem-solving, attention to data quality, an analytical mindset, and the ability to translate technical findings into practical recommendations.
 
 <details>
-<summary><b>⚡ More about my approach — click to expand</b></summary>
+<summary><b>⚡ Explore my approach to solving problems</b></summary>
 <br>
 
-I enjoy taking a project from **problem definition → data validation → exploration → modeling → evaluation → deployment**. I aim to communicate not just a model's accuracy, but also its limitations and the decisions its outputs can support.
+| Stage | My approach |
+| --- | --- |
+| Understand | Define the problem and identify meaningful success metrics. |
+| Analyze | Validate data, explore patterns, and identify limitations. |
+| Build | Select appropriate analytical methods and compare models. |
+| Evaluate | Assess performance, interpret predictions, and communicate trade-offs. |
+| Deliver | Present findings through dashboards, applications, and documented recommendations. |
 
 </details>
 
@@ -208,16 +215,15 @@ I enjoy taking a project from **problem definition → data validation → explo
 
 ---
 
-## 🏅 Certifications & Learning
+## 🏅 Certifications & Professional Development
 
 <a href="https://learn.microsoft.com/en-us/credentials/certifications/azure-fundamentals/"><img src="https://img.shields.io/badge/Microsoft_Certified-Azure_Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Microsoft Certified Azure Fundamentals" /></a>
 
 - **Microsoft Certified: Azure Fundamentals** — earned April 2026.
 - **Data Analyst Professional Certificate** — credential details available on my [LinkedIn profile](https://www.linkedin.com/in/apurv-singh-63560716b).
-- **Post Graduate Program in Data Science & Analytics** — Imarticus Learning, Pune (pursuing).
 
 <details>
-<summary><b>🎯 Current learning roadmap</b></summary>
+<summary><b>🎯 Areas of interest & exploration</b></summary>
 <br>
 
 `Advanced SQL` → `Model Optimization` → `Deep Learning & NLP` → `Generative AI & RAG` → `Data Engineering & ETL`
@@ -251,7 +257,7 @@ I enjoy taking a project from **problem definition → data validation → explo
 
 <div align="center">
 
-**Open to opportunities in Data Analytics, Machine Learning, and collaborative technology projects.**
+Open to opportunities in Data Analytics, Machine Learning, and collaborative technology projects.
 
 <a href="https://www.linkedin.com/in/apurv-singh-63560716b"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://github.com/devilapurv"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
