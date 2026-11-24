@@ -18,14 +18,17 @@
 
 ## 👨‍💻 About Me
 
-I'm passionate about solving real-world problems through Data Analytics, Machine Learning, and intelligent data-driven applications.
+I'm passionate about solving real-world problems through **Data Analytics, Machine Learning, and intelligent data-driven applications**.
 
-- **Analytics & Business Intelligence:** Using Python, SQL, Excel, and Power BI to uncover patterns, evaluate business performance, and communicate actionable insights.
-- **Applied Machine Learning:** Developing predictive and explainable models for fraud detection, risk assessment, forecasting, and sentiment analysis.
-- **Research & Technical Interests:** Published research in NLP and Computer Vision, with interests in Deep Learning, Generative AI, RAG, and Data Engineering.
-- **My Approach:** Combining analytical thinking, technical problem-solving, and business understanding to build practical, reliable solutions.
+- 📊 **Analytics & Business Intelligence:** Using Python, SQL, Excel, and Power BI to uncover patterns, evaluate business performance, and communicate actionable insights.
 
-Currently pursuing a **Post Graduate Program in Data Science & Analytics at Imarticus Learning, Pune.**
+- 🤖 **Applied Machine Learning:** Developing predictive and explainable models for fraud detection, risk assessment, forecasting, and sentiment analysis.
+
+- 🔬 **Research & Technical Interests:** Published research in NLP and Computer Vision, with interests in Deep Learning, Generative AI, RAG, and Data Engineering.
+
+- 🎯 **My Approach:** Combining analytical thinking, technical problem-solving, and business understanding to build practical, reliable solutions.
+
+🎓 Currently pursuing a **Post Graduate Program in Data Science & Analytics at Imarticus Learning, Pune.**
 
 ---
 
