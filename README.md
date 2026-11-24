@@ -41,7 +41,6 @@ I'm passionate about solving real-world problems through **Data Analytics, Machi
 | 🚀 Solution Delivery | Translate findings into interactive dashboards, applications, and actionable recommendations. |
 
 </details>
----
 
 <a name="technical-toolkit"></a>
 
