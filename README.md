@@ -4,7 +4,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:090E1A,45:172A53,100:00D9FF&text=APURV%20SINGH&fontColor=FFFFFF&fontSize=52&fontAlignY=38&desc=DATA%20%7C%20INTELLIGENCE%20%7C%20IMPACT&descAlignY=59&descSize=17&animation=fadeIn" width="100%" alt="Apurv Singh banner" />
 
-<a href="https://github.com/devilapurv"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2600&pause=950&color=55E6FF&center=true&vCenter=true&width=820&lines=Data+Analyst+%7C+Machine+Learning+Enthusiast;Building+Intelligent+Data-Driven+Solutions;Python+%7C+SQL+%7C+Power+BI+%7C+AI;From+Data+Exploration+to+Decision+Support" alt="Animated professional introduction" /></a>
+<a href="https://github.com/devilapurv"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2600&pause=950&color=55E6FF&center=true&vCenter=true&width=820&lines=Data+Analyst+%7C+Machine+Learning;Building+Intelligent+Data-Driven+Solutions;Python+%7C+SQL+%7C+Power+BI+%7C+AI;From+Data+Exploration+to+Decision+Support" alt="Animated professional introduction" /></a>
 
 <p align="center"><i>From exploring raw data to building models and decision-ready applications.</i></p>
 
