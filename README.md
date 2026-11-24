@@ -1,45 +1,32 @@
+<a name="portfolio-top"></a>
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:090E1A,45:172A53,100:00D9FF&text=APURV%20SINGH&fontColor=FFFFFF&fontSize=52&fontAlignY=38&desc=DATA%20%7C%20INTELLIGENCE%20%7C%20IMPACT&descAlignY=59&descSize=17&animation=fadeIn" width="100%" alt="Apurv Singh banner" />
 
-<a href="https://github.com/devilapurv"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2600&pause=950&color=55E6FF&center=true&vCenter=true&width=820&lines=Data+Analyst+%7C+Machine+Learning;Building+Intelligent+Data-Driven+Solutions;Python+%7C+SQL+%7C+Power+BI+%7C+AI;Turning+Complex+Data+into+Meaningful+Insights" alt="Animated professional introduction" /></a>
+<a href="https://github.com/devilapurv"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2600&pause=950&color=55E6FF&center=true&vCenter=true&width=820&lines=Data+Analyst+%7C+Machine+Learning+Enthusiast;Building+Intelligent+Data-Driven+Solutions;Python+%7C+SQL+%7C+Power+BI+%7C+AI;From+Data+Exploration+to+Decision+Support" alt="Animated professional introduction" /></a>
 
-<p align="center"><i>Transforming complex data into meaningful insights and building intelligent solutions to real-world problems.</i></p>
+<p align="center"><i>From exploring raw data to building models and decision-ready applications.</i></p>
 
-**[About](#about-me) · [Tech Stack](#technical-toolkit) · [Projects](#featured-projects) · [Research](#research--publications) · [Articles](#technical-articles) · [GitHub Activity](#github-activity) · [Connect](#lets-connect)**
+**[About](#about-me) · [Toolkit](#technical-toolkit) · [Projects](#featured-projects) · [Research](#research--publications) · [Articles](#technical-articles) · [Credentials](#credentials) · [Activity](#github-activity) · [Connect](#lets-connect)**
 
 </div>
 
 ---
 
-<a id="about-me"></a>
+<a name="about-me"></a>
 
 ## 👨‍💻 About Me
 
-- 📊 I turn raw data into actionable insights using Python, SQL, Excel, and Power BI.
-- 🤖 I build predictive and explainable ML models for fraud detection, risk assessment, forecasting, and sentiment analysis.
-- 🌍 I enjoy solving real-world business and civic challenges through data-driven solutions.
-- 🔬 Published researcher with interests in NLP, Computer Vision, Deep Learning, and Generative AI.
-- 🎓 Currently pursuing Data Science & Analytics at Imarticus Learning, Pune.
-- 🎯 I bring analytical thinking, technical skills, and a business-oriented approach to problem-solving.
-
-<details>
-<summary><b>⚡ Explore my approach to solving problems</b></summary>
-<br>
-
-| Stage | My approach |
-| --- | --- |
-| Understand | Define the problem and identify meaningful success metrics. |
-| Analyze | Validate data, explore patterns, and identify limitations. |
-| Build | Select appropriate analytical methods and compare models. |
-| Evaluate | Assess performance, interpret predictions, and communicate trade-offs. |
-| Deliver | Present findings through dashboards, applications, and documented recommendations. |
-
-</details>
+- 📊 I use **Python, SQL, Excel and Power BI** to uncover trends, track business performance and turn raw data into actionable insights.
+- 🤖 I build and evaluate **predictive and explainable ML models** for fraud detection, forecasting, sentiment analysis and risk assessment.
+- 🛠️ I turn analytical findings into **interactive dashboards and Streamlit applications**, making results easier to explore and use.
+- 🔬 My published research covers **NLP and computer vision**; I am particularly interested in applied AI, Deep Learning, Generative AI and RAG.
+- 🎯 I bring structured problem-solving, attention to data quality and a business-oriented approach to technical challenges.
 
 ---
 
-<a id="technical-toolkit"></a>
+<a name="technical-toolkit"></a>
 
 ## 🛠️ Technical Toolkit
 
@@ -65,11 +52,37 @@
 
 ---
 
-<a id="featured-projects"></a>
+<a name="featured-projects"></a>
 
 ## 🚀 Featured Projects
 
-> Selected work across civic intelligence, fraud detection, NLP, predictive modeling, and business intelligence. **Click each project title to explore its repository.**
+Explore by problem domain. Select a project below to jump to its full description, or open its repository to explore the implementation.
+
+| Project | Domain | Selected result |
+| :--- | :--- | :--- |
+| [CivicPulse India](#project-civicpulse) | Civic intelligence | 326K+ complaints analyzed |
+| [FraudShield AI](#project-fraudshield) | Explainable AI | 86% fraud recall |
+| [SentimentScope](#project-sentiment) | NLP | 93.52% test accuracy |
+| [WaterPotability AI](#project-water) | Classification | 91% non-potable recall |
+| [Admission & Segmentation](#project-admission) | Predictive analytics | 4 customer segments |
+| [Insurance Claims](#project-insurance) | Business intelligence | 1,000 claims analyzed |
+
+<details>
+<summary><b>Explore the methods behind these projects</b></summary>
+
+| Method | Application |
+| :--- | :--- |
+| K-Means & PCA | Ward and customer segmentation |
+| Isolation Forest | Civic complaint anomaly detection |
+| XGBoost & SHAP | Fraud prediction and explanation |
+| TF-IDF & Logistic Regression | Review sentiment classification |
+| Random Forest | Water potability and civic forecasting |
+| Power Query & DAX | Insurance KPIs and risk analysis |
+
+</details>
+
+
+<a name="project-civicpulse"></a>
 
 ### 01 · 🏙️ [CivicPulse India — Civic Complaint Intelligence](https://github.com/devilapurv/CivicPulse-India)
 
@@ -82,6 +95,8 @@
 
 [**🔗 Explore Repository**](https://github.com/devilapurv/CivicPulse-India)
 
+<a name="project-fraudshield"></a>
+
 ### 02 · 🛡️ [FraudShield AI — Credit Card Fraud Detection](https://github.com/devilapurv/FraudShield-AI)
 
 **Tech Stack:** `Python` · `XGBoost` · `SHAP` · `Scikit-learn` · `Streamlit`
@@ -92,6 +107,8 @@
 - Developed a Streamlit dashboard for risk analysis, fraud alerts, and downloadable reports.
 
 [**🔗 Explore Repository**](https://github.com/devilapurv/FraudShield-AI)
+
+<a name="project-sentiment"></a>
 
 ### 03 · 💬 [SentimentScope — Customer Review Intelligence](https://github.com/devilapurv/SentimentScope)
 
@@ -104,6 +121,8 @@
 
 [**🔗 Explore Repository**](https://github.com/devilapurv/SentimentScope)
 
+<a name="project-water"></a>
+
 ### 04 · 💧 [WaterPotability AI — Water Quality Prediction](https://github.com/devilapurv/Water-Potability-AI)
 
 **Tech Stack:** `Python` · `Scikit-learn` · `Random Forest` · `Streamlit` · `Plotly`
@@ -115,6 +134,8 @@
 
 [**🔗 Explore Repository**](https://github.com/devilapurv/Water-Potability-AI)
 
+<a name="project-admission"></a>
+
 ### 05 · 🎓 [Admission Prediction & Customer Segmentation](https://github.com/devilapurv/Admission-Prediction-and-Customer-Segmentation)
 
 **Tech Stack:** `Python` · `Scikit-learn` · `Logistic Regression` · `PCA` · `K-Means` · `SMOTE`
@@ -125,6 +146,8 @@
 - Identified **4 customer segments**, retaining **96.97% variance** through dimensionality reduction.
 
 [**🔗 Explore Repository**](https://github.com/devilapurv/Admission-Prediction-and-Customer-Segmentation)
+
+<a name="project-insurance"></a>
 
 ### 06 · 📊 [Insurance Claims Analytics & Fraud Risk Assessment](https://github.com/devilapurv/Insurance-Claims-Analytics-PowerBI)
 
@@ -171,7 +194,7 @@
 
 ---
 
-<a id="research--publications"></a>
+<a name="research--publications"></a>
 
 ## 📚 Research & Publications
 
@@ -197,7 +220,7 @@
 
 ---
 
-<a id="technical-articles"></a>
+<a name="technical-articles"></a>
 
 ## ✍️ Technical Articles
 
@@ -213,7 +236,11 @@
 
 ---
 
+<a name="credentials"></a>
+
 ## 🏅 Certifications & Professional Development
+
+**Imarticus Learning, Pune** — Post Graduate Program in Data Science & Analytics (ongoing).
 
 <a href="https://learn.microsoft.com/en-us/credentials/certifications/azure-fundamentals/"><img src="https://img.shields.io/badge/Microsoft_Certified-Azure_Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Microsoft Certified Azure Fundamentals" /></a>
 
@@ -230,7 +257,7 @@
 
 ---
 
-<a id="github-activity"></a>
+<a name="github-activity"></a>
 
 ## 📊 GitHub Activity
 
@@ -245,11 +272,11 @@
 
 </div>
 
-> GitHub charts and animations are served by third-party services; if a service is temporarily unavailable, its image may not render.
+
 
 ---
 
-<a id="lets-connect"></a>
+<a name="lets-connect"></a>
 
 ## 🤝 Let's Connect
 
@@ -261,7 +288,7 @@ Open to opportunities in Data Analytics, Machine Learning, and collaborative tec
 <a href="https://github.com/devilapurv"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 <a href="https://medium.com/@apurvsingh_43308"><img src="https://img.shields.io/badge/Medium-Follow-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
 
-*"Learning continuously. Building consistently. Growing through data."*
+[Back to top](#portfolio-top)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=105&section=footer&color=0:00D9FF,50:172A53,100:090E1A" width="100%" alt="Footer decoration" />
 
